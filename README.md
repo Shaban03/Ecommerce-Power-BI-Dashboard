@@ -14,14 +14,14 @@
   - Bar Chart, Pie Chart, Donut Chart, Clustered Bar, Scatter Plot, Line, Area Chart, Maps, Slicers, etc.
 
 - Tools Used:
- - Power BI
- - Excel
+  - Power BI
+  - Excel
 
 - Preview:
   ![Dashboard Preview](ABC Store.png)
 
 - Files Included:
- - Ecommerce_Sales_Dashboard.pbix
- - ABC Store.pngs
- - Details.csv
- - Orders.csv
+  - Ecommerce_Sales_Dashboard.pbix
+  - ABC Store.pngs
+  - Details.csv
+  - Orders.csv
